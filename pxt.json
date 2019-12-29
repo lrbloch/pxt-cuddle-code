@@ -1,6 +1,6 @@
 {
     "name": "pxt-cuddlecode",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "A customizable and programmable stuffed animal for girls ages 6-10 to build and program in their homes with adult collaboration and support",
     "dependencies": {
         "core": "*",
