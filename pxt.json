@@ -1,18 +1,19 @@
 {
-    "name": "pxt-cuddle-code",
+    "name": "pxt-cuddlecode",
     "version": "0.0.0",
-    "description": "",
+    "description": "A customizable and programmable stuffed animal for girls ages 6-10 to build and program in their homes with adult collaboration and support",
     "dependencies": {
         "core": "*",
         "radio": "*"
     },
     "files": [
         "README.md",
+        "main.blocks",
         "main.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": true,
+    "preferredEditor": "blocksprj"
 }
